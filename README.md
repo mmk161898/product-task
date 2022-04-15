@@ -5,9 +5,13 @@ Hi, Thanks for accessing the Product Task codebase.
 Kindly follow the below steps to start the product-task codebase on your local Machine
  
  Step-1 :- Take a clone of codebase using github.
+ 
  Step-2 :- Open any IDE to import the codebase.For Example, Eclipse, Spring Tool Suite, etc.
+ 
  Step-3 :- Go to File -> Import -> Existing Maven Projects -> Click on Next -> Browse project on your local Machine -> Click on Finish button.
+ 
  Step-4 :- Run application as "mvn clean" and "mvn install" to download all the required jars.
+ 
  Step-5 :- Run application as "Java Application" and select main class as "TaskApplication".
  
 You are good to go with testing the functionality.
