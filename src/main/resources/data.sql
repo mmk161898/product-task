@@ -1,0 +1,4 @@
+insert into product (id, name, description, brand, category, created_at)values('b6afac37-cf9a-4fd4-8257-f096dbb5d34d', 'Red Shirt', 'Red Hugo boss Shirt', 'Hugo boss', 'apparel', '2022-04-14T12:00:28Z');
+insert into product (id, name, description, brand, category, created_at)values('a6adac17-cf6a-5fd4-8257-f096dwb5e34d', 'Black T-shirt', 'Adidas Black T-shirt', 'Adidas', 'apparel', '2022-04-14T11:00:28Z');
+insert into product (id, name, description, brand, category, created_at)values('n6adac17-cy6a-5fg4-8217-r096dwb5e34c', 'Jeans', 'Slim fit Jeans', 'Highlander', 'apparel', '2022-01-24T12:00:28Z');
+insert into product (id, name, description, brand, category, created_at)values('g6avac77-cf2a-5ft4-8257-f009dwb5e34p', 'Shorts', 'Denim Short', 'Denim', 'apparel', '2022-04-04T12:00:28Z');
